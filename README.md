@@ -4,7 +4,7 @@
 Software Engineer
 ---------------
 - 🌏 I'm from Taiwan.
-- ✉ 06a17y@gmail.com
+- ✉ Contact me: 06a17y@gmail.com
 
 
 ### Skills
