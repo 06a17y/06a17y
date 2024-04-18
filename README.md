@@ -1,9 +1,5 @@
-### Hi! My name is Ally
+### Hi👋
 <br/>
-
-- 🌏 I'm from Taiwan.
-- 👉 I'm currently learning **web technology**.
-- ✉ Contact me 06a17y@gmail.com
 
 
 ### Skills
